@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  MFCLogin.cpp
+  MFCLoginDlg.cpp
+F:\运动打卡\MFCLogin（可改背景）\MFCLogin（最终版）\MFCLogin（可改背景）\MFCLogin\MFCLoginDlg.cpp(226,21): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  MFCLogin.vcxproj -> F:\运动打卡\MFCLogin（可改背景）\MFCLogin（最终版）\MFCLogin（可改背景）\x64\Debug\MFCLogin.exe
